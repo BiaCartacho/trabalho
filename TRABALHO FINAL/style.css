@@ -1,0 +1,136 @@
+.flex-container{
+	background-color:;
+}
+@media(max-width: 760px){
+	.flex-container, .separacao, .inicial, .seguido, .partona, .parte2, .parte3{
+		width: 100%;
+	}
+}
+.separacao{
+	display: flex;
+}
+.qi1{
+	height: 2vh;
+	width: 20%;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 20px;
+	background-color:#0000CD;
+}
+.qi2{
+	height: 4vh;
+	width: 2%;
+	background-color: black;
+	margin-left: 1300px;
+	margin-top: 10px;
+}
+.qi3{
+	height: 4vh;
+	width: 2%;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.qi4{
+	height: 4vh;
+	width: 2%;
+	background-color:#D9E5F5;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.inicial{
+	display: flex;
+
+}
+.qi5{
+	height: 43.2vh;
+	width: 150%;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.seguido{
+	display: flex;
+	flex-wrap: wrap;
+}
+.qi6{
+	height: 20vh;
+	width: 400px;
+	background-color: black;
+	margin-right: 1.5%;
+	margin-left: 20%;
+	margin-top: 30px;
+}
+.qi7{
+	height: 20vh;
+	width: 400px;
+	background-color: black;
+	margin-right: 1.5%;
+	margin-left: 20%;
+	margin-top: 30px;
+}
+.partona{
+	display: flex;
+	flex-wrap: wrap;
+}
+.p1{
+	height: 90vh;
+	width: 305px;
+	background-color: black;
+	margin-left: 28px;
+	margin-top: 30px;
+}
+.parte2{
+	display: flex;
+}
+.p2{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 115px;
+	margin-top: 170px;
+	font-size: 27px;
+}
+.p3{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 115px;
+	margin-top: 170px;
+	font-size: 27px;
+}
+.p4{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 115px;
+	margin-top: 170px;
+	font-size: 27px;
+}
+.parte3{
+	display: flex;
+}
+.p5{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 447.5px;
+	margin-top: -320px;
+	font-size: 27px;
+}
+.p6{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 115px;
+	margin-top: -320px;
+	font-size: 27px;
+}
+.p7{
+	height: 24vh;
+	width: 390px;
+	background-color: black;
+	margin-left: 115px;
+	margin-top: -320px;
+	font-size: 27px;
+}
